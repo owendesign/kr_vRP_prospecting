@@ -28,6 +28,7 @@
 
 ## 설치
 `server.cfg`에 추가하십시오 :
+
 start vrp_prospecting
 
 start prospecting
